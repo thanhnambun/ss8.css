@@ -1,0 +1,12 @@
+/* bt1 */
+
+.demo{
+    width: 500px;
+    height: 500px;
+    background-color: pink;
+    color: black;
+    border: 5px solid black;
+    padding: 20px;
+    margin: 5px;
+    box-sizing: border-box ;
+}
